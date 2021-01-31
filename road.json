@@ -946,24 +946,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":52,
-                 "properties":[
-                        {
-                         "name":"exitSceneUrl",
-                         "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/road.json"
-                        }]
-                }, 
-                {
-                 "id":53,
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/map.json"
-                        }]
                 }],
          "tilewidth":32
         }, 
