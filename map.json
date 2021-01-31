@@ -947,7 +947,7 @@
                         {
                          "name":"exitSceneUrl",
                          "type":"string",
-                         "value":".\/road.json"
+                         "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/road.json"
                         }]
                 }, 
                 {
@@ -956,7 +956,7 @@
                         {
                          "name":"exitSceneUrl",
                          "type":"string",
-                         "value":".\/map.json"
+                         "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/map.json"
                         }]
                 }],
          "tilewidth":32
