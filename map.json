@@ -33,6 +33,12 @@
          "id":14,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/road.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -954,7 +960,7 @@
                  "id":53,
                  "properties":[
                         {
-                         "name":"exitSceneUrl",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/map.json"
                         }]
