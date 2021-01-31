@@ -46,7 +46,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -945,7 +945,7 @@
                  "id":52,
                  "properties":[
                         {
-                         "name":"exitUrl",
+                         "name":"exitSceneUrl",
                          "type":"string",
                          "value":"road.json"
                         }]
@@ -954,7 +954,7 @@
                  "id":53,
                  "properties":[
                         {
-                         "name":"exitUrl",
+                         "name":"exitSceneUrl",
                          "type":"string",
                          "value":"map.json"
                         }]
