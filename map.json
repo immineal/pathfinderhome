@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/LinusiusDuesentrieb.github.io\/pathfinderhome\/road.json"
+                 "value":".\/road.json"
                 }],
          "type":"tilelayer",
          "visible":true,
