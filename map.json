@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exirUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/church.json"
                 }],
@@ -70,7 +70,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -82,7 +82,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
