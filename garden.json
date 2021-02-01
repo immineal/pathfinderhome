@@ -61,7 +61,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.liber.dyn.cc\/Fireplace"
+                 "value":"https:\/\/meet.jit.si\/fireplace"
                 }, 
                 {
                  "name":"jitsiTrigger",
