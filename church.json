@@ -59,9 +59,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiTrigger: onaction",
+                 "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.liber.dyn.cc\/WorkAdventureChurch"
+                 "value":"https:\/\/meet.jit.si\/WorkAdventureChurch"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
