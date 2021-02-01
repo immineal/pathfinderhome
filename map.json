@@ -25,7 +25,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.liber.dyn.cc\/TableFirstFloor"
+                 "value":"https:\/\/meet.jit.si\/TableFirstFloor"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -48,7 +48,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.liber.dyn.cc\/TableSecondFloor2"
+                 "value":"https:\/\/meet.jit.si\/TableSecondFloor2"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -71,7 +71,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"https:\/\/meet.liber.dyn.cc\/TableSecondFloor1"
+                 "value":"https:\/\/meet.jit.si\/TableSecondFloor1"
                 }, 
                 {
                  "name":"jitsiTrigger",
